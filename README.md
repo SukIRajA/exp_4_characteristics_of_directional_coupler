@@ -73,4 +73,16 @@ Directivity (dB) = P3-P4=17dB
 
 <img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 53 AM" src="https://github.com/user-attachments/assets/60fe1941-36db-49c7-9ce5-ccb792e1316c" />
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 53 AM (1)" src="https://github.com/user-attachments/assets/25419dec-1337-4d0e-8dfe-1ea8e5cdbd02" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 53 AM (1)" src="https://github.com/user-attachments/assets/25419dec-1337-4d0e-8dfe-1ea8e5cdbd02" />   
+
+
+## Precautions
+
+1. The beam voltage should be minimum and the repeller voltage should be normal before switching the klystron power supply ON/OFF.
+2. Loose connections between the components should be avoided.
+3. The directional coupler must be handled carefully while inserting it into the circuit.
+
+---
+
+## Conclusion
+The performance characteristics of a directional coupler were successfully measured using a microwave test bench.
